@@ -1,0 +1,17 @@
+body	{font-family:Arial,Centaur, "Century Gothic";
+		font-size: 14pt; 
+		background-color:#ADD8E6;}
+		
+p		{margin-left:45pt;
+		 margin-right:45pt; }
+			
+img		{border-color: transparent; }
+
+li.navlist	{display:inline;
+			list-style-type:none; }
+
+a		{text-decoration: none;
+		color:#030a24 }
+		
+a:hover {background: none;
+		color: #0000FF; }
