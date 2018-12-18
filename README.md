@@ -13,3 +13,7 @@ Just a simple HTML and CSS website. I used Adobe Photoshop to create some of the
 ## Getting Started
 
 Clone or download the repository and then double-click on the html files to view the website on a browser.
+
+## Authors
+
+Janeen Soria
